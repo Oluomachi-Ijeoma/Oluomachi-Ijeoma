@@ -15,5 +15,4 @@ More coming soon — learning OOP, recursion, algorithms, and NLP libraries step
 
 Open to feedback, collaborations, or connections in data science & NLP!
 
-📧 goodnessanaele0902@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/goodness-a-a83101315/
